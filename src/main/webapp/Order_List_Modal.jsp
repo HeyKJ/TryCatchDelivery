@@ -33,7 +33,7 @@
 
 <div id="Show-Order-List">
 	<div>
-		<table class="table table-striped table-bordered table-list">
+		<table class="table table-striped table-bordered table-list" style="table-layout:fixed;">
 			<!-- Member-Purchase-Table-Header -->
 			<thead>
 				<tr>
